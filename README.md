@@ -1,7 +1,7 @@
 <!-- 动态字 -->
 <h1 align="center">
 	<a href="https://zhsher.cn/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello World!&center=true&size=27">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=你好呀;这里是张时贰的主页!&center=true&size=27">
 	</a>
 </h1>
 
