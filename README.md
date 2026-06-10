@@ -6,7 +6,5 @@
 </h1>
 
 ![Header](./github-header-image.png)  
-![Github Created At](https://img.shields.io/github/created-at/xtmd/xtmd?style=for-the-badge)
 ---
-![Like](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)
-![Like](https://img.shields.io/badge/html-white?style=for-the-badge&logo=html)
+![skill](https://skillicons.dev/icons?i=git,html,css,markdown,python,github,linux,windows,apple,bash)
