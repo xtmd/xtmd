@@ -7,4 +7,8 @@
 
 ![Header](./github-header-image.png)  
 ---
-![skill](https://skillicons.dev/icons?i=git,html,css,markdown,python,github,linux,windows,apple,bash,discord,docker,git,gmail,instagram,kali,mastodon,misskey,neovim,notion,obsidian,raspberrypi,redhat,regex,mysql,postgres,sqlite,sublime,twitter,vim,vercel,vscode,)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,markdown,python,github,linux,windows,apple,bash,discord,docker,git,gmail,instagram,kali,mastodon,misskey,neovim,notion,obsidian,raspberrypi,redhat,regex,mysql,postgres,sqlite,sublime,twitter,vim,vercel,vscode" />
+  </a>
+</p>
